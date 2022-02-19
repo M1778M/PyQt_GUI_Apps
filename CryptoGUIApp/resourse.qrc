@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/icons/icons8-tools-64.png</file>
+    <file>images/icons/icons8-about-96.png</file>
+    <file>images/icons/icons8-advertisement-page-96.png</file>
+    <file>images/icons/icons8-close-window-96.png</file>
+    <file>images/icons/icons8-error-96.png</file>
+    <file>images/icons/icons8-group-100.png</file>
+    <file>images/icons/icons8-home-64.png</file>
+    <file>images/icons/icons8-internet-antenna-96.png</file>
+    <file>images/icons/icons8-male-user-100.png</file>
+    <file>images/icons/icons8-maximize-100.png</file>
+    <file>images/icons/icons8-menu-96.png</file>
+    <file>images/icons/icons8-scatter-plot-96.png</file>
+    <file>images/icons/icons8-settings-50.png</file>
+    <file>images/icons/icons8-trading-100.png</file>
+    <file>images/icons/icons8-wi-fi-off-60.png</file>
+  </qresource>
+</RCC>
